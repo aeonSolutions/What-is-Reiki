@@ -103,5 +103,14 @@ for example, to convert a MS Word .docx document to #markdown you simply need to
 pandoc -f docx -t markdown foo.docx -o foo.markdown
 ```
 
+## How Start writing collaboratively
+First you need to install GitHub desktop 
+[Go to GitHub desktop website](https://desktop.github.com)
 
+Next clone this repository to your computer
+Here it is a good starting tutorial on how to do it
+[Go to Tuturial ](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop)
 
+Start writing and add files to the repository and when you finish simply pull the changes to GitHub
+here's a good YouTube video on how to use GitHub Desktop for Windows
+[Go to YouTube](https://www.youtube.com/watch?v=77W2JSL7-r8)
