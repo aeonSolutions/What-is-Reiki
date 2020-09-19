@@ -119,3 +119,7 @@ Here it is a good starting tutorial on how to do it
 here's a good YouTube video on how to use GitHub Desktop for Windows
 
 [Go to YouTube](https://www.youtube.com/watch?v=77W2JSL7-r8)
+
+## how to write mathematical formulas 
+
+[Check this tutorial]( https://jaantollander.com/post/scientific-writing-with-markdown/)
