@@ -50,4 +50,24 @@ A detailed western explanation manual of the energy fields in a human being
 
 […]
 
+- - - - 
+# How to use this repository for writer 
+If you don't want to write directly using the #markDown language, you can convert it using Pandoc.
+
+Pandoc understands a number of useful markdown syntax extensions, including document metadata (title, author, date); footnotes; tables; definition lists; superscript and subscript; strikeout; enhanced ordered lists (start number and numbering style are significant); running example lists; delimited code blocks with syntax highlighting; smart quotes, dashes, and ellipses; markdown inside HTML blocks; and inline LaTeX. If strict markdown compatibility is desired, all of these extensions can be turned off.
+
+LaTeX math (and even macros) can be used in markdown documents. Several different methods of rendering math in HTML are provided, including MathJax and translation to MathML. LaTeX math is converted (as needed by the output format) to unicode, native Word equation objects, MathML, or roff eqn.
+
+Pandoc includes a powerful system for automatic citations and bibliographies, using pandoc-citeproc
+...
+
+##Install Pandoc
+[WebSite](https://pandoc.org/installing.html)
+
+for example, to convert a MS Word .docx document to #markdown you simply need to use the following command 
+```
+pandoc -f docx -t markdown foo.docx -o foo.markdown
+```
+
+
 
