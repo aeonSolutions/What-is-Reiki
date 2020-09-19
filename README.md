@@ -66,6 +66,7 @@ Depending on the application you use, you may not be able to preview the formatt
 The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.
 
 ## Why Use Markdown?
+For instance this document you're reading uses markdown. 
 You might be wondering why people use Markdown instead of a WYSIWYG editor. Why write with Markdown when you can press buttons in an interface to format your text? As it turns out, there are a couple different reasons why people use Markdown instead of WYSIWYG editors.
 
 Markdown can be used for everything. People use it to create websites, documents, notes, books, presentations, email messages, and technical documentation.
