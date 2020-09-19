@@ -61,10 +61,10 @@ LaTeX math (and even macros) can be used in markdown documents. Several differen
 Pandoc includes a powerful system for automatic citations and bibliographies, using pandoc-citeproc
 ...
 
-##How to install Pandoc
+## How to install Pandoc
 [Go to Pandoc's WebSite](https://pandoc.org/installing.html)
 
-##Example using Pandoc to convert a .docX to markDown
+## Example using Pandoc to convert a .docX to markDown
 for example, to convert a MS Word .docx document to #markdown you simply need to use the following command 
 ```
 pandoc -f docx -t markdown foo.docx -o foo.markdown
