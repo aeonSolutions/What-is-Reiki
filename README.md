@@ -123,12 +123,14 @@ here's a good YouTube video on how to use GitHub Desktop for Windows
 ## how to write mathematical formulas 
 
 We can write equations either inline using single dollars $...$ or display using double dollars $$...$$. Optionally, we can add tags \tag{<tag>} for numbering equations and labels \label{<label>} for referring to equations later in text using \ref{<label>}. For example, we can write Cauchy’s integral formula as
-
+```
 $$
 f(a)={\frac {1}{2\pi i}}\oint _{\gamma }{\frac {f(z)}{z-a}}\,dz
 \tag{1}
 \label{1}
 $$
+```
+
 Mathjax displays the equation as
 
  
@@ -143,9 +145,9 @@ We can make writing equations easier by using Unicode characters for mathematica
 
 When using characters that have special meaning for Markdown parsers inside equations such as asterisk *, some Markdown parsers do not detect that, and it will interfere with the parser. For example, for parsing boldface text. Therefore, use backslashed ASCII (\*), latex command (\ast), or the Unicode versions (∗) of these characters.
 
-Citations
+### Citations
 Let us have the following BibTeX entry stored in bibliography.bib file.
-
+```
 @article{key_name,
     author  = {Peter Adams},
     title   = {The title of the work},
@@ -157,6 +159,7 @@ Let us have the following BibTeX entry stored in bibliography.bib file.
     note    = {An optional note},
     volume  = {4}
 }
+```
 We can refer to this entry in the Markdown document using syntax @key_name or [@key_name]. Pandoc creates references at the bottom of the document.
 
 [Check this tutorial to continue reading]( https://jaantollander.com/post/scientific-writing-with-markdown/)
