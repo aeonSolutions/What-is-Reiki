@@ -3,6 +3,7 @@ A detailed western explanation manual of the energy fields in a human being
 
 
 ## Table of contents
+
 ### 1. Energy
   - [ ] What is energy
   - [ ] The different types of energy known
@@ -13,12 +14,14 @@ A detailed western explanation manual of the energy fields in a human being
   - [ ] What is water vapor and moisture(physics 101)
   - [ ] What is tension (physics 101)
   - [ ] What is pressure (physics 101)
+  
 ### 2.0 How the human body really is and how it works (from head to the feet) 
   - [ ] How the human body neural network:  the nervous system:more that just electricity
   - [ ] What is Thermal radiation (damage caused by incorrect body liberation of thermal radiation)
   - [ ] What is water vapor and moisture(damage caused due to incorrect body liberation of water vapor)
   - [ ] What is tension (the superposition of 2 muscle forces on opposite directions)
   - [ ] What is pressure (how atmospheric pressure is regulated in a body)
+  
 ### 3.0 Safety practices on a human being
   - [ ] Safety on handling the Electromagnetic energy fields
   - [ ] Safety on handling Light based energy fields
@@ -29,9 +32,16 @@ A detailed western explanation manual of the energy fields in a human being
   - [ ] Safety on handling pressure
   - [ ] Safety on handling the body's neural network
   - [ ] Local conditions for a successful therapeutic session
-### 5.0 Affectivity
-### 6.0 Fatigue, Boredom, and the illusion of  convictions
-### 7.0 The Reiki technique 
+  
+### 5.0 What is a feeling
+  - [ ] the biological sensors in a humen being
+ 
+### 6.0 What is an emotion
+  - [ ] Affectivity
+  - [ ] Fatigue, Boredom
+### 7.0 Reiki practice
+  - [ ] Minimum Conditions for a successfull Reiki practice 
+  - [ ] Reiki tecnique
 
 […]
 
