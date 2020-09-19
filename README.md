@@ -3,9 +3,9 @@ A detailed western explanation manual of the energy fields in a human being
 
 
 ## Table of contents
--Energy
-  -What is energy
-  -The different types of energy known
+- Energy
+  - What is energy
+  - The different types of energy known
 1. 3 Electromagnetic energy fields (physics 101)
 1. 4 Light based energy fields (physics/ photonics 101)
 1. 5 Sound based energy fields (physics 101)
