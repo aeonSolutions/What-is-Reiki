@@ -84,6 +84,7 @@ Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lo
 ## See how it works
 [The ultimate Guide using markdown language](https://gist.github.com/cuonggt/9b7d08a597b167299f0d)
 
+## I dont like markdown. what now ?
 If you don't want to write directly using the #markDown language, you can convert it using Pandoc.
 
 Pandoc understands a number of useful markdown syntax extensions, including document metadata (title, author, date); footnotes; tables; definition lists; superscript and subscript; strikeout; enhanced ordered lists (start number and numbering style are significant); running example lists; delimited code blocks with syntax highlighting; smart quotes, dashes, and ellipses; markdown inside HTML blocks; and inline LaTeX. If strict markdown compatibility is desired, all of these extensions can be turned off.
