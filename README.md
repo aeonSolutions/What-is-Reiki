@@ -114,7 +114,7 @@ Here it is a good starting tutorial on how to do it
 
 [Go to Tuturial ](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-a-repository-from-github-to-github-desktop)
 
-3. Start writing and add files to the repository and when you finish simply pull the changes to GitHub
+3. Start writing and add files to the repository and when you finish simply push the changes to GitHub
 
 here's a good YouTube video on how to use GitHub Desktop for Windows
 
